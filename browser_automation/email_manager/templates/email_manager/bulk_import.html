@@ -1,0 +1,43 @@
+{% extends 'email_manager/base.html' %}
+
+{% block content %}
+<div class="card">
+    <h2>Bulk Import Users</h2>
+    <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    
+    <!-- Option 1: Upload separate CSVs -->
+    <div class="upload-option">
+        <h3>Upload Separate Files:</h3>
+        <div>
+            <label>Emails CSV:</label>
+            <input type="file" name="emails_file" accept=".csv">
+        </div>
+        <div>
+            <label>Proxies CSV:</label>
+            <input type="file" name="proxies_file" accept=".csv">
+        </div>
+        <div>
+            <label>Statuses CSV:</label>
+            <input type="file" name="statuses_file" accept=".csv">
+        </div>
+    </div>
+    
+    <!-- Option 2: Upload pre-merged CSV -->
+    <div class="upload-option">
+        <h3>OR Upload Merged CSV:</h3>
+        <input type="file" name="merged_file" accept=".csv">
+    </div>
+    <br>
+    
+    <button type="submit" class="btn btn-primary">Import</button>
+</form>
+    
+    <div style="margin-top: 20px;">
+        <h3>CSV Format Requirements:</h3>
+        <p>Required columns: <code>username, email</code></p>
+        <p>Optional columns: <code>proxy_address, is_connected, profile_id, is_active_profile</code></p>
+        <a href="#" class="btn btn-primary">Download Template</a>
+    </div>
+</div>
+{% endblock %}

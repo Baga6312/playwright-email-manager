@@ -1,0 +1,37 @@
+{% extends 'email_manager/base.html' %}
+{% block content %}
+<div class="card">
+    <h2>Add New User</h2>
+    <form method="post">
+        {% csrf_token %}
+        <div style="margin-bottom: 15px;">
+            <label>Username (required):</label>
+            <input type="text" name="username" required style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+        </div>
+        <div style="margin-bottom: 15px;">
+            <label>Email (required):</label>
+            <input type="email" name="email" required style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+        </div>
+        <div style="margin-bottom: 15px;">
+            <label>Proxy Address:</label>
+            <input type="text" name="proxy_address" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+        </div>
+        <div style="margin-bottom: 15px;">
+            <label>Password:</label>
+            <input type="password" name="temp_password" style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+        </div>
+        <div style="margin-bottom: 15px;">
+            <label>
+                <input type="checkbox" name="is_connected"> Is Connected
+            </label>
+        </div>
+        <div style="margin-bottom: 15px;">
+            <label>
+                <input type="checkbox" name="is_active_profile"> Is Active Profile
+            </label>
+        </div>
+        <button type="submit" class="btn btn-primary">Create User</button>
+        <a href="{% url 'dashboard' %}" class="btn" style="background: #6c757d; color: white; text-decoration: none; margin-left: 10px;">Cancel</a>
+    </form>
+</div>
+{% endblock %}
