@@ -1,0 +1,12 @@
+playwright 
+python-dotenv 
+celery 
+django-celery-beat 
+celery
+django-celery-beat
+django-celery-results
+redis
+cryptography 
+openai 
+pandas
+djangorestframework

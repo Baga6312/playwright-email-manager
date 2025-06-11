@@ -1,0 +1,3 @@
+email,password,provider,recovery_email,phone
+test1@gmail.com,password1,gmail,recovery1@gmail.com,1234567890
+test2@outlook.com,password2,outlook,recovery2@outlook.com,0987654321

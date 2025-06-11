@@ -1,0 +1,11 @@
+name,proxy_host,proxy_port,proxy_username,proxy_password,email,email_password,provider,to_interact
+Browser_Marketing_001,192.168.1.100,8080,proxy_user1,proxy_pass123,marketing.bot1@gmail.com,SecurePass123!,gmail,true
+Browser_Social_002,192.168.1.101,8080,proxy_user2,proxy_pass456,social.manager2@outlook.com,MyPassword456@,outlook,true
+Browser_Research_003,192.168.1.102,3128,research_proxy,research123,data.collector3@gmail.com,DataPass789#,gmail,false
+Browser_Content_004,192.168.1.103,8080,content_user,content_pass,content.creator4@yahoo.com,CreativePass001,yahoo,true
+Browser_Analytics_005,192.168.1.104,8080,analytics_proxy,analytics456,analytics.team5@gmail.com,AnalyticsKey999,gmail,true
+Browser_Testing_006,192.168.1.105,3128,test_proxy,test_password,testing.account6@outlook.com,TestSecure2024,outlook,false
+Browser_Demo_007,192.168.1.106,8080,demo_user,demo_pass789,demo.user7@gmail.com,DemoAccess777,gmail,true
+Browser_Backup_008,192.168.1.107,8080,backup_proxy,backup_secure,backup.system8@protonmail.com,BackupKey888,protonmail,false
+Browser_Monitor_009,192.168.1.108,3128,monitor_user,monitor_pass,monitoring.tool9@gmail.com,MonitorPass999,gmail,true
+Browser_Support_010,192.168.1.109,8080,support_proxy,support_key,customer.support10@outlook.com,SupportAccess101,outlook,true
