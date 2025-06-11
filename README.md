@@ -1,0 +1,1 @@
+# playwright-email-manager
