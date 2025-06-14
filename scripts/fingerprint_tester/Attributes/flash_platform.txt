@@ -1,0 +1,329 @@
+Windows CE 5.0
+Windows CE 6.0
+Windows CE 7.0
+Windows Mobile 5.0
+Windows Mobile 6.0
+Windows Mobile 6.1
+Windows Mobile 6.5
+Windows Phone 7.0
+Windows Phone 8.0
+Windows Phone 8.1
+Windows 10 Mobile
+Windows 10 IoT Core
+Windows Embedded Compact 7
+Windows Embedded Standard 7
+Windows Embedded POSReady 7
+Windows Embedded 8.1 Industry
+Symbian S60 3rd Edition
+Symbian S60 5th Edition
+Symbian^3
+Symbian Anna
+Symbian Belle
+Palm OS 5.0
+Palm OS Garnet
+Palm webOS 1.0
+Palm webOS 2.0
+BlackBerry OS 4.5
+BlackBerry OS 5.0
+BlackBerry OS 6.0
+BlackBerry OS 7.0
+BlackBerry 10
+Tizen 2.0
+Tizen 3.0
+Tizen 4.0
+MeeGo 1.0
+MeeGo 1.1
+MeeGo 1.2
+Maemo 5
+Bada 1.0
+Bada 2.0
+VxWorks 6.8
+VxWorks 6.9
+VxWorks 7.0
+QNX 6.3.2
+QNX 6.4.1
+QNX 6.5.0
+QNX 6.6.0
+QNX 7.0.0
+ThreadX 5.4
+ThreadX 6.0
+FreeRTOS 8.2.3
+FreeRTOS 9.0.0
+FreeRTOS 10.0.1
+µC/OS-II 2.92
+µC/OS-III 3.06.01
+embOS 4.22
+embOS 5.06
+Linux 2.6.32-automotive
+Linux 3.10.17-rt12-genivi
+Linux 4.1.15-rt17-yocto
+Linux 4.14.98-ti-rt
+Linux 5.4.106-tegra
+Android Automotive 9.0
+Android Automotive 10.0
+Android Automotive 11.0
+Android Automotive 12.0
+CarPlay iOS 13.4
+CarPlay iOS 14.2
+CarPlay iOS 15.1
+Android Auto 6.2
+Android Auto 7.1
+Ford SYNC 3.0
+Ford SYNC 3.4
+BMW iDrive 6.0
+BMW iDrive 7.0
+BMW iDrive 8.0
+Mercedes MBUX 1.0
+Mercedes MBUX 2.0
+Audi MMI 3G
+Audi MMI 3G+
+Tesla MCU1 v9.0
+Tesla MCU2 v10.0
+Tesla MCU2 v11.0
+Canon DIGIC 6
+Canon DIGIC 7
+Canon DIGIC 8
+Canon DIGIC X
+Nikon EXPEED 4
+Nikon EXPEED 5
+Nikon EXPEED 6
+Sony BIONZ X
+Panasonic Venus Engine 9
+Panasonic Venus Engine 10
+GoPro H22
+GoPro GP1
+DJI A3 Flight Controller
+DJI N3 Flight Controller
+Parrot Bebop 2.0
+Samsung Tizen TV 2.4
+Samsung Tizen TV 3.0
+Samsung Tizen TV 4.0
+Samsung Tizen TV 5.0
+Samsung Tizen TV 6.0
+LG webOS 3.0
+LG webOS 3.5
+LG webOS 4.0
+LG webOS 5.0
+LG webOS 6.0
+Roku OS 9.0
+Roku OS 9.1
+Roku OS 9.2
+Roku OS 9.3
+Roku OS 9.4
+Amazon Fire TV OS 5.2.6.2
+Amazon Fire TV OS 6.2.6.3
+Amazon Fire TV OS 7.2.1.6
+Apple tvOS 13.0
+Apple tvOS 14.0
+Apple tvOS 15.0
+Chromecast OS 1.36
+Chromecast OS 1.42
+PlayStation 4 System 8.00
+PlayStation 4 System 9.00
+PlayStation 5 System 4.03
+Xbox One OS 10.0.19041
+Xbox Series X|S OS 10.0.22000
+Nintendo Switch OS 12.1.0
+Nintendo Switch OS 13.2.1
+Garmin 3.30
+Garmin 4.10
+Garmin 8.20
+TomTom 9.510
+TomTom 10.845
+Cisco IOS 15.1
+Cisco IOS-XE 16.12
+Juniper JUNOS 19.4R3
+Mikrotik RouterOS 6.47.10
+Mikrotik RouterOS 7.1.5
+OpenWrt 19.07.8
+OpenWrt 21.02.1
+DD-WRT v3.0-r44715
+pfSense 2.5.2
+Windows Vista
+Windows XP
+Windows 2000
+Windows ME
+Windows 98
+Windows 95
+Windows NT 4.0
+Windows NT 5.0
+Windows NT 5.1
+Windows NT 5.2
+Windows NT 6.0
+Windows Server 2003
+Windows Server 2008
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019
+Windows Server 2022
+Mac OS 10.0
+Mac OS 10.1
+Mac OS 10.2
+Mac OS 10.3
+Mac OS 10.4
+Mac OS 10.5
+Mac OS X 10.6
+Mac OS X 10.7
+Mac OS X 10.8
+Mac OS X 10.9
+Mac OS X 10.10
+Mac OS X 10.11
+macOS 10.12
+macOS 10.13
+macOS 10.14
+macOS 10.15
+macOS 11.0
+macOS 12.0
+macOS 13.0
+macOS 14.0
+Linux Ubuntu
+Linux Debian
+Linux CentOS
+Linux Red Hat
+Linux SUSE
+Linux Fedora
+Linux Mint
+Linux Arch
+Linux Gentoo
+Linux Slackware
+Linux Mandriva
+Linux PCLinuxOS
+Solaris SPARC
+Solaris x86
+HP-UX
+IRIX
+BeOS
+QNX
+OS/2
+Android 2.1
+Android 2.2
+Android 2.3
+Android 3.0
+Android 4.0
+Android 4.1
+Android 4.2
+Android 4.3
+Android 4.4
+Android 5.0
+Android 6.0
+Android 7.0
+Android 8.0
+Android 9.0
+Android 10
+Android 11
+Android 12
+Android 13
+iOS 6.0
+iOS 7.0
+iOS 8.0
+iOS 9.0
+iOS 10.0
+iOS 11.0
+iOS 12.0
+iOS 13.0
+iOS 14.0
+iOS 15.0
+iOS 16.0
+iOS 17.0
+Windows 7
+Windows 8
+Windows 8.1
+Windows 10
+Windows 11
+Windows NT 6.1
+Windows NT 6.2
+Windows NT 6.3
+Windows NT 10.0
+Mac OS 10.6.8
+Mac OS 10.7.5
+Mac OS 10.8.5
+Mac OS 10.9.5
+Mac OS 10.10.5
+Mac OS 10.11.6
+Mac OS 10.12.6
+Mac OS 10.13.6
+Mac OS 10.14.6
+Mac OS 10.15.7
+Mac OS 11.7.10
+Mac OS 12.7.4
+Mac OS 13.6.6
+Mac OS 14.4.1
+Linux i686
+Linux x86_64
+Linux armv6l
+Linux armv7l
+Linux aarch64
+FreeBSD i386
+FreeBSD amd64
+OpenBSD i386
+OpenBSD amd64
+NetBSD i386
+Solaris i86pc
+AIX
+watchOS 1.0
+watchOS 2.0
+watchOS 3.0
+watchOS 4.0
+watchOS 5.0
+watchOS 6.0
+watchOS 7.0
+watchOS 8.0
+watchOS 9.0
+watchOS 10.0
+Wear OS 1.0
+Wear OS 2.0
+Wear OS 3.0
+Wear OS 4.0
+Android Wear 1.3
+Android Wear 1.4
+Android Wear 1.5
+Android Wear 2.0
+Samsung Tizen 2.3.1
+Samsung Tizen 2.3.2
+Samsung Tizen 3.0
+Samsung Tizen 4.0
+Samsung Tizen 5.5
+Samsung Tizen 6.0
+Samsung Galaxy Watch OS 3.2.1.1
+Samsung Galaxy Watch OS 4.0.0.4
+Samsung Galaxy Watch4 OS 1.0
+Fitbit OS 1.0
+Fitbit OS 2.0
+Fitbit OS 3.0
+Fitbit OS 4.0
+Fitbit OS 5.0
+Fitbit OS 6.0
+Garmin Connect IQ 1.2.5
+Garmin Connect IQ 2.4.7
+Garmin Connect IQ 3.1.9
+Garmin Connect IQ 4.0.4
+Polar Flow 1.0
+Polar Flow 2.0
+Suunto 7 Wear OS 2.8
+Suunto Movescount 1.0
+Huawei LiteOS 1.0
+Huawei LiteOS 2.0
+Amazfit OS 1.0
+Amazfit OS 2.0
+Pebble OS 3.14
+Pebble OS 4.3
+Fossil Gen 4 Wear OS 2.1
+Fossil Gen 5 Wear OS 2.8
+TicWatch Pro 3 Wear OS 2.21
+Xiaomi Mi Band 3 OS 1.8.0.16
+Xiaomi Mi Band 4 OS 1.0.7.16
+Xiaomi Amazfit GTR 1.3.3.0
+Honor MagicWatch 2 OS 1.0.4.26
+Oppo Watch Wear OS 2.3
+OnePlus Watch OS 1.0
+Realme Watch OS 1.0
+Mobvoi TicWatch OS 2.28
+Casio WSD-F30 Wear OS 2.5
+TAG Heuer Connected Wear OS 2.1
+Montblanc Summit 2+ Wear OS 2.8
+Diesel Full Guard 2.5 Wear OS 2.3
+Skagen Falster 3 Wear OS 2.8
+Michael Kors Access Wear OS 2.5
+Kate Spade Scallop 2 Wear OS 2.3
+Emporio Armani Connected Wear OS 2.1
+Misfit Vapor X Wear OS 2.8

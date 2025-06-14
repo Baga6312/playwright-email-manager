@@ -1,0 +1,363 @@
+{
+  "flash_plugins": {
+  "flash_plugins": [
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 32.0 r0",
+      "filename": "pepflashplayer.dll",
+      "version": "32.0.0.387",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 32.0 r0",
+      "filename": "libpepflashplayer.so",
+      "version": "32.0.0.387",
+      "platform": "Linux"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 32.0 r0",
+      "filename": "PepperFlashPlayer.plugin",
+      "version": "32.0.0.387",
+      "platform": "macOS"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 31.0 r0",
+      "filename": "NPSWF32_31_0_0_153.dll",
+      "version": "31.0.0.153",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 31.0 r0",
+      "filename": "libflashplayer.so",
+      "version": "31.0.0.153",
+      "platform": "Linux"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 30.0 r0",
+      "filename": "NPSWF32_30_0_0_154.dll",
+      "version": "30.0.0.154",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 30.0 r0",
+      "filename": "Flash Player.plugin",
+      "version": "30.0.0.154",
+      "platform": "macOS"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 29.0 r0",
+      "filename": "pepflashplayer.dll",
+      "version": "29.0.0.171",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 29.0 r0",
+      "filename": "libpepflashplayer.so",
+      "version": "29.0.0.171",
+      "platform": "Linux"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 28.0 r0",
+      "filename": "NPSWF32_28_0_0_161.dll",
+      "version": "28.0.0.161",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 28.0 r0",
+      "filename": "PepperFlashPlayer.plugin",
+      "version": "28.0.0.161",
+      "platform": "macOS"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 27.0 r0",
+      "filename": "libpepflashplayer.so",
+      "version": "27.0.0.187",
+      "platform": "Linux"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 27.0 r0",
+      "filename": "pepflashplayer.dll",
+      "version": "27.0.0.187",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 26.0 r0",
+      "filename": "PepperFlashPlayer.plugin",
+      "version": "26.0.0.151",
+      "platform": "macOS"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 26.0 r0",
+      "filename": "NPSWF32_26_0_0_151.dll",
+      "version": "26.0.0.151",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 25.0 r0",
+      "filename": "NPSWF32_25_0_0_148.dll",
+      "version": "25.0.0.148",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 25.0 r0",
+      "filename": "libflashplayer.so",
+      "version": "25.0.0.148",
+      "platform": "Linux"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 24.0 r0",
+      "filename": "pepflashplayer.dll",
+      "version": "24.0.0.221",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 24.0 r0",
+      "filename": "Flash Player.plugin",
+      "version": "24.0.0.221",
+      "platform": "macOS"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 23.0 r0",
+      "filename": "NPSWF32_23_0_0_207.dll",
+      "version": "23.0.0.207",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 23.0 r0",
+      "filename": "libpepflashplayer.so",
+      "version": "23.0.0.207",
+      "platform": "Linux"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 22.0 r0",
+      "filename": "PepperFlashPlayer.plugin",
+      "version": "22.0.0.209",
+      "platform": "macOS"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 22.0 r0",
+      "filename": "pepflashplayer.dll",
+      "version": "22.0.0.209",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 21.0 r0",
+      "filename": "NPSWF32_21_0_0_242.dll",
+      "version": "21.0.0.242",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 21.0 r0",
+      "filename": "libflashplayer.so",
+      "version": "21.0.0.242",
+      "platform": "Linux"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 20.0 r0",
+      "filename": "Flash Player.plugin",
+      "version": "20.0.0.306",
+      "platform": "macOS"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 20.0 r0",
+      "filename": "pepflashplayer.dll",
+      "version": "20.0.0.306",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 19.0 r0",
+      "filename": "NPSWF32_19_0_0_245.dll",
+      "version": "19.0.0.245",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 19.0 r0",
+      "filename": "libpepflashplayer.so",
+      "version": "19.0.0.245",
+      "platform": "Linux"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 18.0 r0",
+      "filename": "PepperFlashPlayer.plugin",
+      "version": "18.0.0.232",
+      "platform": "macOS"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 18.0 r0",
+      "filename": "pepflashplayer.dll",
+      "version": "18.0.0.232",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 17.0 r0",
+      "filename": "NPSWF32_17_0_0_188.dll",
+      "version": "17.0.0.188",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 17.0 r0",
+      "filename": "libflashplayer.so",
+      "version": "17.0.0.188",
+      "platform": "Linux"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 16.0 r0",
+      "filename": "Flash Player.plugin",
+      "version": "16.0.0.305",
+      "platform": "macOS"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 16.0 r0",
+      "filename": "pepflashplayer.dll",
+      "version": "16.0.0.305",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 15.0 r0",
+      "filename": "NPSWF32_15_0_0_239.dll",
+      "version": "15.0.0.239",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 15.0 r0",
+      "filename": "libpepflashplayer.so",
+      "version": "15.0.0.239",
+      "platform": "Linux"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 14.0 r0",
+      "filename": "PepperFlashPlayer.plugin",
+      "version": "14.0.0.179",
+      "platform": "macOS"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 14.0 r0",
+      "filename": "pepflashplayer.dll",
+      "version": "14.0.0.179",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 13.0 r0",
+      "filename": "NPSWF32_13_0_0_214.dll",
+      "version": "13.0.0.214",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 13.0 r0",
+      "filename": "libflashplayer.so",
+      "version": "13.0.0.214",
+      "platform": "Linux"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 12.0 r0",
+      "filename": "Flash Player.plugin",
+      "version": "12.0.0.77",
+      "platform": "macOS"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 12.0 r0",
+      "filename": "pepflashplayer.dll",
+      "version": "12.0.0.77",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 11.9 r900",
+      "filename": "NPSWF32_11_9_900_170.dll",
+      "version": "11.9.900.170",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 11.9 r900",
+      "filename": "libpepflashplayer.so",
+      "version": "11.9.900.170",
+      "platform": "Linux"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 11.8 r800",
+      "filename": "PepperFlashPlayer.plugin",
+      "version": "11.8.800.168",
+      "platform": "macOS"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 11.7 r700",
+      "filename": "pepflashplayer.dll",
+      "version": "11.7.700.224",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 11.6 r602",
+      "filename": "NPSWF32_11_6_602_180.dll",
+      "version": "11.6.602.180",
+      "platform": "Windows"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 11.5 r502",
+      "filename": "libflashplayer.so",
+      "version": "11.5.502.149",
+      "platform": "Linux"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 10.3 r183",
+      "filename": "Flash Player.plugin",
+      "version": "10.3.183.90",
+      "platform": "macOS"
+    },
+    {
+      "name": "Shockwave Flash",
+      "description": "Shockwave Flash 10.2 r159",
+      "filename": "pepflashplayer.dll",
+      "version": "10.2.159.1",
+      "platform": "Windows"
+    }
+  ]
+}
+}
